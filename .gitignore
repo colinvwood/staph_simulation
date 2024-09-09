@@ -10,3 +10,4 @@ __pycache__/
 .DS_Store
 sim_params.json
 analysis_params.json
+visualization/
