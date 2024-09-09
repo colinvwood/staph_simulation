@@ -2,7 +2,6 @@
 *.out
 *.csv
 *.gz
-*.txt
 *.a
 sim
 __pycache__/
